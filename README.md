@@ -1,1 +1,1 @@
-# TextDetector
+# TextDetector with Python, OpenCV, NUmpy
